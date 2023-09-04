@@ -1,3 +1,12 @@
+# Goal of this project
+The goal of this project was to achieve successful EIGRP configuration between two branches in the network.<br>
+Tools needed in Cisco packet tracer are:<br>
+1. Routers<br>
+2. End devices<br>
+3. Servers<br>
+4. Cables<br>
+5. Switches<br>
+
 # Network Topology  
 ![Screenshot 2023-09-03 213203](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/32c1e1aa-2507-4b52-bf2e-83688a00bee1)
 
