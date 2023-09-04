@@ -3,7 +3,10 @@
 
 # Two Routers
 One is called Branch office and another is Headquarter (HQ).<br>
+HQ<br>
 ![Screenshot 2023-09-03 213437](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/999fa7cd-82e8-4b3c-a7f4-9b4961511e30)<br>
+
+Branch Office<br>
 ![Screenshot 2023-09-03 213411](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/6fdd83bf-bbf7-496c-8878-1796cf25c4b9)<br>
 
 # Giving IP address to Server and End device
@@ -15,12 +18,12 @@ One is called Branch office and another is Headquarter (HQ).<br>
 
 # Setting EIGRP
 Created EIGRP with 1 as Autonomous System Number (ASN) on Branch office and HQ.<br>
+D in the ip route shows that Ip address is in EIGRP connection.<br>
 Branch Office<br>
-![Screenshot 2023-09-03 213241](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/63c0a754-e330-4f2e-b84d-9117250c06ec)
-
+![Screenshot 2023-09-03 213241](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/63c0a754-e330-4f2e-b84d-9117250c06ec) 
 HQ<br>
 ![Screenshot 2023-09-03 213426](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/15040d4e-b298-4b12-983d-c203be8bc499)
 
-# Checking the result of EIGRP
+# Checking the result of EIGRP connection
 Pinging server from the end device.<br>
 ![Screenshot 2023-09-03 213549](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/d6458292-86a9-4e7c-b211-32da3fbb3ba2)
