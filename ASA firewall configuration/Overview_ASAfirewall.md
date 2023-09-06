@@ -1,6 +1,7 @@
 # Configuration of ASA firewall
 # Scope
-The scope of the project are mentioned below:<br>
+The scope of the project is to configure ASA firewall settings to filter connection from ISP network.
+Objective that needs to be fullfilled are mentioned below:<br>
 1. Configure routers in OSPF to connect.<br>
 2. Configure Adaptive Security Appliance basic Settings and fire wall.<br>
 3. Configure basic ASA setting and interface security levels.<br>
