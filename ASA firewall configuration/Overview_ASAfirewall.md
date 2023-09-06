@@ -37,17 +37,17 @@ VLAN 3 - DMZ<br>
 ## Configure routing, address translation and inspection policy
 Default Static Route<br>
 Configured default static route on ASA outside.<br>
-![a](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/95bd15d5-bcee-4a48-8b18-828bf4279460)
+![a](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/95bd15d5-bcee-4a48-8b18-828bf4279460)<br>
 
-Address translation using PAT<br>
-![Screenshot 2023-09-06 023051](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/f463f34e-cded-4a35-851d-2c0ae6556c24)
+Address translation using port address translation (PAT)<br>
+![Screenshot 2023-09-06 023051](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/f463f34e-cded-4a35-851d-2c0ae6556c24)<br>
 
 Modify the MPF application inspection global service policy<br> 
 The packet tracer ASA does not have a default MPF policy mapped in it.<br>
 ![MPF app inspection global service policy](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/2884866a-8c91-4a5e-ba24-9c947a1b8d9b)
 
 ## Configure DHCP, AAA and SSH
-Configured DHCP pool in the ASA<br>
+Configured DHCP pool in the adaptive security appliance (ASA)<br>
 ![Screenshot 2023-09-06 023535](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/0b42ce48-be28-457c-9ea6-f8bf86ca0f72)<br>
 
 The inside end device PC-0 has dhcp provided ip address in place.<br>
