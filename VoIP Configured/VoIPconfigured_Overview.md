@@ -32,7 +32,7 @@ Only used ports are actived allowed VLAN 10 and 20 while shutting down the unuse
 
 # IP Phones
 Ip phones are configured and tested if the call goes through from one phone to another.<br>
-![Screenshot 2023-09-28 093622](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/a85c296c-2a85-4fd0-a158-44d12e8ba317)
+![Screenshot 2023-09-28 093820](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/dc250faf-6c3f-4099-94f2-04a2bffa5135)
 
 # PCs
 PCs have automatically assigned Ip address due to DHCP.<br>
