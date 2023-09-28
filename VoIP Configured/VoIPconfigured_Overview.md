@@ -31,11 +31,11 @@ Only used ports are actived allowed VLAN 10 and 20 while shutting down the unuse
 ![Screenshot 2023-09-28 091726](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/2ead9ae3-ca6a-4464-98a5-2db37bbff097)<br>
 
 # IP Phones
-Ip phones are configured and tested if the call goes through from one phone to another.<br>
+Ip phones are connected to switch ports and tested if the call goes through from one phone to another.<br>
 ![Screenshot 2023-09-28 093820](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/dc250faf-6c3f-4099-94f2-04a2bffa5135)
 
 # PCs
-PCs have automatically assigned Ip address due to DHCP.<br>
+PCs have automatically assigned Ip address due to DHCP pool created in router.<br>
 ![Screenshot 2023-09-28 093459](https://github.com/Kendra0004/CiscoNetwork_Lab/assets/142570738/a26cd27f-f062-42e1-8f31-abb36a6b0f57)
 
 
