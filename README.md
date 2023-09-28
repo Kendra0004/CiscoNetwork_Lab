@@ -11,3 +11,4 @@ CISCO Packet Tracer
 This repository contains different mini network lab projects such as:
 1. [EIGRP](https://github.com/Kendra0004/CiscoNetwork_Lab/blob/main/Eigrp/EIGRP_Overview.md)
 2. [ASA firewall](https://github.com/Kendra0004/CiscoNetwork_Lab/blob/main/ASA%20firewall%20configuration/Overview_ASAfirewall.md)
+3. [VoIP](https://github.com/Kendra0004/CiscoNetwork_Lab/blob/main/VoIP%20Configured/VoIPconfigured_Overview.md)
